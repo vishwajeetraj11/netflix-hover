@@ -1,6 +1,6 @@
 # Preview
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iRGR89xxCz8?si=DaAvcpMbzkw9zTb2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![OS Resume Editor DEMO](https://i.ytimg.com/vi/iRGR89xxCz8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuG-fzf0eU7Ms5Zjz9WuteV7Tzog)]([https://www.youtube.com/watch?v=plFUCIFGOVc](https://www.youtube.com/watch?v=iRGR89xxCz8))
 
 # React + TypeScript + Vite
 
